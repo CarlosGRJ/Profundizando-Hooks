@@ -4,6 +4,6 @@ body {
   color: #f3f3f3;
 }
 
-hr {
-  color: white;
+.blockquote {
+  display: flex;
 }
